@@ -1,1 +1,1 @@
-console.log('plk')
+document.write('plk')
